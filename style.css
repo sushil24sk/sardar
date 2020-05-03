@@ -1,0 +1,29 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+
+div{
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+    border : 1px solid blue ;
+    box-sizing: border-box;
+}
+.header,.description{
+    padding : 10px;
+    border : 1px dashed red;
+    font-size: 5vw;
+    text-align: center;
+    box-sizing: border-box;
+}
+.image{
+    padding : 10px;
+    border : 1px dashed red;
+    vertical-align: auto;
+    width: 100%;
+    height: auto;
+}
+
