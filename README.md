@@ -1,2 +1,2 @@
-# sardar
-Static page
+# Sardar
+Responsive Page
